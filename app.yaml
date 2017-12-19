@@ -1,4 +1,4 @@
-application: gae-sample-app
+application: text-summary-python27
 runtime: python
 api_version: 1
 env: flex
